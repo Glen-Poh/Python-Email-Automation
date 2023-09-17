@@ -1,0 +1,21 @@
+S/N,Vendor,Item Bought,Cost per unit,Qty,Due date,Payment Made
+1,Vendor ABC,Item A,523,1,18/9/2023,No
+2,Vendor DEF,Item A,523,2,18/9/2023,Yes
+3,Vendor GHI,Item A,523,1,18/9/2023,No
+4,Vendor JKL,Item A,523,2,18/9/2023,No
+5,Vendor MNO,Item A,523,2,18/9/2023,Yes
+6,Vendor ABC,Item B,230,2,20/9/2023,Yes
+7,Vendor GHI,Item C,85,3,10/9/2023,Yes
+8,Vendor JKL,Item B,230,2,10/9/2023,No
+9,Vendor MNO,Item C,85,1,20/9/2023,No
+10,Vendor ABC,Item D,130,2,10/10/2023,No
+11,Vendor ABC,Item E,65,4,10/10/2023,No
+12,Vendor JKL,Item F,210,1,20/9/2023,No
+13,Vendor MNO,Item E,65,2,10/10/2023,No
+14,Vendor MNO,Item B,230,3,10/9/2023,Yes
+15,Vendor DEF,Item E,65,5,10/10/2023,No
+16,Vendor DEF,Item F,210,2,20/9/2023,No
+17,Vendor GHI,Item B,230,1,10/10/2023,No
+18,Vendor ABC,Item F,210,3,10/9/2023,No
+19,Vendor JKL,Item D,130,2,10/10/2023,No
+20,Vendor DEF,Item C,85,3,10/9/2023,No
